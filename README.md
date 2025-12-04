@@ -1,13 +1,3 @@
-¡Claro que sí! Vamos a transformar esa descripción técnica en un README.md atractivo y profesional para tu repositorio de GitHub, siguiendo el estilo visual del ejemplo anterior.
-
-El objetivo es que, de un vistazo, el visitante entienda la robustez del sistema, el stack tecnológico moderno que usaste y las funcionalidades clave.
-
-Aquí tienes la propuesta en formato Markdown, lista para copiar y pegar.
-
-Propuesta para tu README.md en GitHub
-Copia y pega el siguiente bloque de código Markdown directamente en tu archivo README.md en GitHub.
-
-Markdown
 
 # 🛒 Sistema de Gestión de Compras y Ventas (Laravel 12)
 
